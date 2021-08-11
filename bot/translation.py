@@ -6,15 +6,9 @@ class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
-<b>I am a Pro AutoFilterBot V2....😜</b>
+<b>നീ ഏതാ മോനൂസെ എന്നെ @malayalammoviesdownloader ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ പറ്റൂ...
 
-<b>Make me an admin for your group and channel then connect me....🎉</b>
-
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
-
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
+ വെറുതെ സമയം കളയാൻ നിൽക്കണ്ട...വേഗം ഗ്രൂപ്പിലേക്ക് വിട്ടോ സിനിമ അവിടെ കിട്ടും...🤭</b>"""    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
