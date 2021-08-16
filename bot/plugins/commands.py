@@ -68,7 +68,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔊 Bot Updates 🔊', url=f"https://t.me/MOVIEMARKET_DISCUSSION_GROUP"
+                                    'കൂടുതൽ തിരയുക🔎', url=f"https://t.me/malayalammoviesdownloader"
                                 )
                         ]
                     ]
