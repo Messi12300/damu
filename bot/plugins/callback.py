@@ -1648,7 +1648,7 @@ async def callback_data(bot, update: CallbackQuery):
             InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜🤖', url='https://t.me/newmoviesottrelease')
         ]]
 
-       reply_markup = InlineKeyboardMarkup(buttons)
+        reply_markup = InlineKeyboardMarkup(buttons)
         
         await update.message.edit_text(
             Translation.START_TEXT.format(update.from_user.mention),
