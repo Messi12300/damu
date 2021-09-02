@@ -1679,7 +1679,7 @@ async def callback_data(bot, update: CallbackQuery):
     elif query_data == "about": 
         buttons = [[
             InlineKeyboardButton('👤𝐌𝐚𝐥𝐥𝐮 𝐂𝐢𝐧𝐞𝐦𝐚𝐬 𝐀𝐝𝐦𝐢𝐧', url='https://t.me/Fantasyatmebot'),
-            InlineKeyboardButton('Skp KP👤', url='https://t.me/Skp_Kp')
+            InlineKeyboardButton('𝐌𝐚𝐥𝐥𝐮 𝐂𝐢𝐧𝐞𝐦𝐚𝐬 𝐀𝐝𝐦𝐢𝐧 Group', url='https://t.me/malayalammoviesdownloader')
         ],[
             InlineKeyboardButton('👤 AlbertEinstein 👤', url='https://t.me/AlbertEinsteinTG')
         ],[
